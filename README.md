@@ -1,4 +1,4 @@
-# Prismo
+# Prismo (OUTDATED, SEE CULPA)
 
 Prismo is a flight recorder for AI coding agents. It captures every LLM call, tool invocation, file change, and terminal command your agent makes — then lets you replay the exact session deterministically or fork at any decision point to run counterfactual experiments.
 
